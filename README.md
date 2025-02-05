@@ -10,13 +10,13 @@ Through a structured curriculum, students will explore key topics such as projec
 
 By the end of this course, students will gain a comprehensive understanding of how to effectively manage projects and leverage innovative ideas to create new business opportunities.
 
-This repository serves as a comprehensive resource for students and enthusiasts alike. 
+### What You’ll Find Here:
 
-1. **Personal Solutions to Past Exams** – Detailed, step-by-step write-ups of previously tested questions to guide your revision and deepen conceptual understanding.
-2. **PPT Example References** – Walkthroughs of example problems and exercises presented in the lecture slides, clarifying key ideas and methodologies.
-3. **Analysis of Challenging Topics** – In-depth discussions and breakdowns of complex areas, helping you navigate common pitfalls and master advanced concepts.
+- **Personal Solutions to Past Exams** – Step-by-step solutions to previous exam questions to aid your understanding and preparation.
+- **Lecture PPT Example References** – Detailed walkthroughs of key examples and exercises presented in lecture slides.
+- **Analysis of Challenging Topics** – In-depth explanations of complex concepts to help you navigate difficult areas with ease.
 
-If you happen to have a GitHub account and find this repository helpful, **please consider giving it a star⭐**.
+If you find this repository useful, please consider **starring⭐ it on GitHub** to show your support!
 
 ![Technopreneurship-and-innovation](./README.assets/Technopreneurship-and-innovation.png)
 
