@@ -1,0 +1,33 @@
+卷 Data 的文件夹 PATH 列表
+卷序列号为 A07A-31F5
+D:.
+│  .gitattributes
+│  .gitignore
+│  LICENSE
+│  list.txt
+│  README.md
+│  
+├─1.Exam
+│      23-S2-SectionA-1.pdf
+│      
+├─2.PPT Example
+│  └─1.Technopreneurship
+│          Sample Quiz 1.pdf
+│          Sample Quiz 2.pdf
+│          Sample Quiz 3.pdf
+│          
+├─3.Understand
+├─4.Resource
+│  ├─1.OUTLINE
+│  │      EE6010 PROJECT MANAGEMENT AND TECHNOPRENEURSHIP.pdf
+│  │      
+│  ├─2.TEXTBOOK
+│  │      Project Management Concepts, Methods, and Techniques (Claude H. Maley) (Z-Library).pdf
+│  │      
+│  └─3.REFERENCES
+│          Fundamentals of Project Management (James P. Lewis) (Z-Library).pdf
+│          Innovation and Entrepreneurship (John Bessant, John R. Bessant, Joe Tidd) (Z-Library).pdf
+│          
+└─README.assets
+        Technopreneurship-and-innovation.png
+        
