@@ -1,4 +1,4 @@
-# EE6010-Project-Management-And-Technopreneurship(Ongoing)
+# EE6010-Project Management And Technopreneurship
 
 # 1.Introduction
 
@@ -62,425 +62,199 @@ Innovation and Entrepreneurship.
 
 # 5.Content
 
-## 5.1 English
+`````
+Technology entrepreneurship 
+1. Entrepreneurial Goals and Background 
+1.1 New Business Planning 
+1.2 Creativity, Innovation and Entrepreneurship 
+1.3 Entrepreneurship Overview 
+1.3.1 What is an entrepreneur? 
+1.3.2 Business Facilitation 
+1.3.3 Reasons for Entrepreneurs to Start Businesses 
+1.4 Characteristics of Entrepreneurs 
+1.4.1 Entrepreneurship Myths (Misconceptions) 
+1.5 How to Discover Entrepreneurial Opportunities 
+1.6 Benefits of Owning a Small Business 
+1.7 Entrepreneurship 
+1.8 View Failure Correctly 
+1.9 Sources of Opportunities 
+1.10 The Road to Entrepreneurship 
+1.11 Promising Entrepreneurial Fields 
+
+Creativity and innovation are the keys to entrepreneurial success. 
+2.1 Creativity, Innovation, and Entrepreneurship 
+2.2 Types of Innovation 
+2.2.1 Incremental Innovation 
+2.2.2 Radical Innovation 
+2.2.3 Disruptive Innovation 
+2.2.4 Continuous Innovation 
+2.3 Failure: A Part of the Creative Process 
+2.3.1 How creative are you? 
+2.4 Entrepreneurship Process 
+2.4.1 Four Steps 
+2.4.2 What is an Opportunity? 
+2.5 Observe Trends 
+2.6 Creative Thinking 
+2.6.1 Creative Thinking 
+2.6.2 Creativity Obstacles 
+2.6.3 Questions that Stimulate Imagination 
+2.6.4 Techniques for Enhancing Personal Creativity 
+2.7 Creative Process 
+2.7.1 Preparation 
+2.7.2 Investigation 
+2.7.3 Conversion 
+2.7.4 Incubation 
+2.7.5 Verification 
+2.7.6 Implementation 
+2.8 Techniques to Enhance the Creative Process 
+2.8.1 Brainstorming 
+2.8.2 Mind Map 
+2.8.3 Force Field Analysis 
+2.8.4 Sample Force Field Analysis 
+2.9 Summary 
+
+3. Entrepreneurship establishment, feasibility analysis, business model and business plan 
+3.1 New Business Planning 
+3.2 Feasibility Analysis 
+3.2.1 Industry and Market 
+3.2.1.1 Five Forces Model 
+3.2.1.1.1 Competition among Companies 
+3.2.1.1.2 Bargaining Power of Suppliers 
+3.2.1.1.3 Buyer Bargaining Power 
+3.2.1.1.4 Threats from New Entrants 
+3.2.1.1.5 Threat of Substitutes 
+3.2.2 Products or Services 
+3.2.3 Finance 
+3.2.4 Entrepreneurs 
+3.3 Business Model 
+3.3.1 Definition 
+3.3.2 Types of Revenue Models 
+3.3.2.1 Revenue Model Based on Advertising 
+3.3.2.2 Alliance Revenue Model 
+3.3.2.3 Transaction Revenue Model 
+3.3.2.4 Subscription Revenue Model 
+3.3.2.5 Webpage Sales Revenue Model 
+3.3.2.6 Retail Sales Revenue Model 
+3.3.2.7 Free Premium Revenue Model 
+3.3.2.8 Franchise Revenue Model 
+3.3.2.9 Platform (Market) Revenue Model 
+3.3.2.10 Distributor Revenue Model 
+3.3.2.11 Crowdsourcing Revenue Model 
+3.3.2.12 Blockchain Model 
+3.3.3 Business Model Canvas 
+3.3.3.1 Definition 
+3.3.3.2 Building Blocks 
+3.3.3.2.1 Customer Segmentation 
+3.3.3.2.2 Value Proposition 
+3.3.3.2.3 Distribution Channels 
+3.3.3.2.4 Customer Relationship (CR) 
+3.3.3.2.5 Sources of Income 
+3.3.3.2.6 Key Resources 
+3.3.3.2.7 Key Activities 
+3.3.3.2.8 Key Partnership Relationships 
+3.3.3.2.9 Cost Structure 
+3.3.3.2.2.10 Summary 
+3.3.3.3 Innovative Business Models 
+3.4 Business Plan 
+3.4.1 Definitions 
+3.4.2 Components 
+3.4.2.1 Cover and Table of Contents 
+3.4.2.2 Executive Summary 
+3.4.2.3 Mission, Vision and Culture 
+3.4.2.4 Company Profile 
+3.4.2.5 Opportunity Analysis 
+3.4.2.6 Marketing Strategies and Plans 
+3.4.2.7 Management and Operation 
+3.4.2.8 Financial Analysis and Forecasting 
+3.4.2.9 Funding Application & Exit Strategy 
+3.4.2.10 Appendix 
+3.4.3 Presentation 
+3.4.4 Suggestions 
+3.4.5 Summary 
+4. Develop joint ventures 
+5. Develop new products and services 
+6. Utilizing knowledge and intellectual property rights 
+
+
+Part Two: Project Management 
+1. Introduction: Project Initiation and Planning 
+1.1 Learning Objectives 
+1.2 What is project management? 
+1.3 What is a Project? 
+1.4 General Characteristics of the Project 
+1.4.1 Project Examples 
+1.4.1.1 Manufacturing or R&D fields 
+1.4.1.2 Service Industry 
+1.4.1.3 Information Technology (IT) Industry 
+1.4.1.4 Project Examples 
+1.4.1.5 is not a project. 
+1.4.1.6 Are these projects? 
+1.4.1.7 Process and Project Management 
+1.5 Why is the project important? 
+
+1.6 Project Life Cycle 
+1.6.1 Changes 
+1.6.2 Impact 
+
+1.7 Project Success Rate 
+1.7.1 Example 
+1.7.2 The Fourfold Constraints of Project Success 
+1.7.3 Four Dimensions of Project Success 
+1.7.4 Understanding Success Criteria 
+1.7.5 Six Criteria for IT Project Success 
+
+1.8 Project Management Maturity 
+1.8.1 Spider Web Chart 
+1.8.2 Spider Web Diagram for Embedded Organization Assessment 
+1.8.3 Development 
+1.8.4 Business Practice Center 
+1.8.5 Kellzner's PMM Model 
+1.8.6 ESI International Project Framework 
+1.8.7 SEI Capability Maturity Model Integration 
+1.8.8 General Model of Project Management Maturity 
+1.8.9 Project Elements and Pinto's Text Organization Gantt Chart 
+
+
+1.9 Project Manager Responsibilities 
+1.9.1 The PMBOK Guide is based on the development of organizational foundations. 
+1.9.2 Overview of PMBOK Knowledge Areas by the Project Management Institute 
+1.10 Summary 
+
+
+
+
+2.Organizational Background 
+2.1 Learning Objectives 
+2.2 Project and Organizational Strategy 
+2.2.1 Project Reflects Strategy 
+2.2.2 Threats-Opportunities-Weaknesses-Strengths (TOWS) Matrix 
+2.3 Stakeholder Management 
+2.3.1 Identify Project Stakeholders 
+2.3.2 Project Stakeholder Relationships 
+2.3.3 Managing Stakeholders 
+2.4 Organizational Structure 
+2.4.1 Form 
+2.4.1.1 Functional Type 
+2.4.1.2 Project-based Organization 
+2.4.1.3 Matrix Style 
+2.4.2 Heavyweight Project Organization 
+2.4.3 Project Management Office 
+2.4.3.1 Different Levels 
+2.4.3.2 Form 
+2.4.3.3 The control tower performs four functions. 
+2.5. Organizational Culture 
+2.5.1 Key Factors Affecting Cultural Development 
+2.5.2 Organizational Culture 
+2.6 Summary
+`````
 
 
 
 
 
-## 5.2Chinese
 
-技术创业
 
-1.创业目标和背景
 
-1.1 新业务规划
-
-1.2 创造力、创新和创业精神
-
-1.3创业概论
-
-1.3.1什么是企业家?
-
-1.3.2营商便利度
-
-1.3.3企业家创业的原因
-
-1.4 企业家的特点
-
-1.4.1创业神话(错误的观点)
-
-1.5 如何发现创业机会
-
-1.6拥有小企业的好处
-
-1.7创业
-
-1.8正确看待失败
-
-1.9机会的来源
-
-1.10创业之路
-
-1.11有潜力的创业领域
-
-
-
-
-
-2.创造力和创新是创业成功的关键
-
-2.1创造力、创新、创业
-
-2.2创新类型
-
-2.2.1增量创新
-
-2.2.2激进创新
-
-2.2.3颠覆性创新
-
-2.2.4持续创新
-
-2.3失败:创意过程的一部分
-
-2.3.1你有多有创意?
-
-2.4创业过程
-
-2.4.1四个步骤
-
-2.4.2什么是机会?
-
-2.5观察趋势
-
-2.6创造性思维
-
-2.6.1创造性思维
-
-2.6.2创造力障碍
-
-2.6.3激发想象的问题
-
-2.6.4提升个人创造力的技巧
-
-2.7创意过程
-
-2.7.1准备
-
-2.7.2调查
-
-2.7.3转换
-
-2.7.4孵化
-
-2.7.5验证
-
-2.7.6实施
-
-2.8技巧提升创意过程
-
-2.8.1头脑风暴
-
-2.8.2心智图
-
-2.8.3力场分析
-
-2.8.4样本力场分析
-
-2.9总结
-
-
-
-
-
-3.创业创建，可行性分析，商业模式与商业计划
-
-3.1新业务规划
-
-3.2可行性分析
-
-3.2.1行业和市场
-
-3.2.1.1五力模型
-
-3.2.1.1.1公司间的竞争
-
-3.2.1.1.2供应商的议价能力
-
-3.2.1.1.3买家议价能力
-
-3.2.1.1.4新进入者的威胁
-
-3.2.1.1.5替代品的威胁
-
-3.2.2产品或服务
-
-3.2.3财务
-
-3.2.4企业家
-
-3.3商业模式
-
-3.3.1定义
-
-3.3.2 收入模式类型
-
-3.3.2.1 基于广告的营收模式
-
-3.3.2.2联盟收入模式
-
-3.3.2.3交易收入模式
-
-3.3.2.4订阅收入模式
-
-3.3.2.5网页销售收入模式
-
-3.3.2.6零售销售收入模型
-
-3.3.2.7免费增值收入模式
-
-3.3.2.8特许经营收入模式
-
-3.3.2.9平台(市场)收入模式
-
-3.3.2.10分销商收入模式
-
-3.3.2.11众包收入模式
-
-3.3.2.12区块链模型
-
-3.3.3商业模式画布
-
-3.3.3.1定义
-
-3.3.3.2构建模块
-
-3.3.3.2.1客户细分
-
-3.3.3.2.2价值主张
-
-3.3.3.2.3分销渠道
-
-3.3.3.2.4客户关系(CR)
-
-3.3.3.2.5收入来源
-
-3.3.3.2.6关键资源
-
-3.3.3.2.7关键活动
-
-3.3.3.2.8关键合作伙伴关系
-
-3.3.3.2.9成本结构
-
-3.3.3.2.2.10总结
-
-3.3.3.3创新商业模式
-
-3.4商业计划
-
-3.4.1定义
-
-3.4.2组成部分
-
-3.4.2.1封面和目录
-
-3.4.2.2执行摘要
-
-3.4.2.3使命、愿景和文化
-
-3.4.2.4公司简介
-
-3.4.2.5机会分析
-
-3.4.2.6市场营销策略与计划
-
-3.4.2.7管理与运营
-
-3.4.2.8财务分析与预测
-
-3.4.2.9资金申请 & 退出策略
-
-3.4.2.10附录
-
-3.4.3展示
-
-3.4.4建议
-
-3.4.5总结
-
-4.发展合资企业
-
-
-
-5.开发新产品和服务
-
-
-
-6.利用知识和知识产权
-
-
-
-
-
-第二部分:项目管理
-
-1.引言：项目启动和规划
-
-1.1学习目标
-
-1.2什么是项目管理?
-
-1.3什么是项目?
-
-1.4项目的一般特征
-
-1.4.1项目示例
-
-1.4.1.1制造或研发领域
-
-1.4.1.2服务行业
-
-1.4.1.3信息技术(IT)行业
-
-1.4.1.4项目示例
-
-1.4.1.5不是一个项目
-
-1.4.1.6这些是项目吗?
-
-1.4.1.7过程与项目管理
-
-
-
-1.5为什么项目很重要?
-
-
-
-1.6项目生命周期
-
-1.6.1变更
-
-1.6.2影响
-
-
-
-1.7项目成功率
-
-1.7.1例子
-
-1.7.2项目成功的四重约束
-
-1.7.3项目成功的四个维度
-
-1.7.4理解成功标准
-
-1.7.5 IT项目成功的六个标准
-
-
-
-1.8项目管理成熟度
-
-1.8.1蜘蛛网图
-
-1.8.2嵌入式组织评估的蜘蛛网图
-
-1.8.3发展
-
-1.8.4商业实践中心
-
-1.8.5凯尔兹纳的PMM模型
-
-1.8.6ESI国际项目框架
-
-1.8.7 SEI能力成熟度模型集成
-
-1.8.8项目管理成熟度通用模型
-
-1.8.9项目元素与平托的文本组织甘特图
-
-
-
-1.9项目经理职责
-
-1.9.1PMBOK指南组织基础以发展
-
-1.9.2项目管理协会的PMBOK知识领域概述
-
-1.10总结
-
-
-
-
-
-2.组织背景
-
-2.1学习目标
-
-2.2项目与组织战略
-
-2.2.1项目反映战略
-
-2.2.2威胁-机会-劣势-优势TOWS)矩阵
-
-2.3利益相关者管理
-
-2.3.1识别项目干系人
-
-2.3.2项目利益相关者关系
-
-2.3.3管理利益相关者
-
-2.4 组织结构
-
-2.4.1形式
-
-2.4.1.1职能型
-
-2.4.1.2项目型组织
-
-2.4.1.3矩阵式
-
-2.4.2重量级项目组织
-
-2.4.3项目管理办公室
-
-2.4.3.1不同层级
-
-2.4.3.2形式
-
-2.4.3.3控制塔执行四项职能
-
-2.5.组织文化
-
-2.5.1影响文化发展的关键因素
-
-2.5.2组织文化
-
-2.6总结
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3.项目监督
-
-4.控制和评估
 
 # 6.List of GitHub
 
