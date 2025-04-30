@@ -970,13 +970,9 @@ Translated with DeepL.com (free version)
 
 
 
-# 6.List of GitHub
 
-`````
 
-`````
-
-# 7.Disclaimer
+# Disclaimer
 
 All content in this  is based solely on the contributors' personal work, Internet data.
 All tips are for reference only and are not guaranteed to be 100% correct.
